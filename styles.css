@@ -1,0 +1,15 @@
+Body{
+	text-align: center;}
+body {
+    background-image: url(http://www.citypictures.net/data/media/1/Manhattan_Skyline_From_Brooklyn_New_York.jpg);
+ 
+} 
+p {
+	color:white;
+}
+ul{
+	color: white;
+}
+img{height: 400px; 
+	width: 400px; 
+}
